@@ -1,0 +1,7 @@
+{
+  "name": "hci-blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
